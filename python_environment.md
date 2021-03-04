@@ -259,7 +259,7 @@ To write and run Python progrtam in the virtual environment do the following.
 
 1. Activate the virtual environment.
 2. Write/place your Python code in the directory for the virtual environment.
-3. Run using: ```python3 <program_file.py>
+3. Run using: ```python3 <program_file.py>```
    
 When you are done, deactivate the virtual environment.
 
